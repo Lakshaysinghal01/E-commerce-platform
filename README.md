@@ -1,6 +1,6 @@
-# Django E-commerce
+# E-commerce
 
-This is a e-commerce website built with Django.
+This is a e-commerce website built with Python and Django.
 
 ---
 
